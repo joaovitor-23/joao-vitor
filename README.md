@@ -1,8 +1,18 @@
 ** ou __ sao para *Italico.*
 
+**** para **negrito**.
+
 *** ou --- cria linha.
 
+***
+
 Para titulos são usados a #.
+
+# Titulo 1
+
+## Titulo 2
+
+### Titulo 3
 
 Lista numerada:
 
