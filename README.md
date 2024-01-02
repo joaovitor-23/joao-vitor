@@ -14,6 +14,8 @@ Para titulos são usados a #.
 
 ### Titulo 3
 
+---
+
 Lista numerada:
 
 1. linha 1
